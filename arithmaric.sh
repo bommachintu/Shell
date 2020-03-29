@@ -12,3 +12,6 @@ echo addition =  $((num3+num4))
 echo subtraction = $((num3-num4))
 echo multiplication = $((num3*num4))
 echo Division = $((num3/num4))
+
+read expression
+printf %.3f $( echo "$expression" | bc -l )
