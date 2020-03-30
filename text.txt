@@ -5,5 +5,5 @@ is linux good os
 
 
 command#  
-cut -3
+cut -c3
 
