@@ -1,0 +1,9 @@
+#For each line of input, print its  character on a new line for a total of  lines of output.
+unix or linux os
+is unix good os
+is linux good os
+
+
+command#  
+cut -3
+
