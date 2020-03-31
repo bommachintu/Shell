@@ -14,4 +14,4 @@ W
 
 COmmand:
 
-head | tr -d "a-z" " "
+tr -d "a-z" 
